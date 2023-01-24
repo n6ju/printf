@@ -1,4 +1,4 @@
-alx low level programming group project
+lx low level programming group project
 
 SYNOPSIS
 
